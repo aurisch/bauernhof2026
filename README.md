@@ -47,6 +47,14 @@ Das Repository ist öffentlich. Um die Spieladresse freizuschalten:
 3. **main** und **/(root)** auswählen und speichern.
 4. Anschließend die Spieladresse oben öffnen. Die Bereitstellung kann einen Moment dauern.
 
+## 🤖 Entstanden mit KI
+
+Die erste spielbare Version von **EJOYW** wurde von **ChatGPT** aus einer einzigen kurzen Entwicklungsanweisung erstellt – ohne dass Papa dafür selbst Programmcode schreiben musste. Die Idee kam von Jannik.
+
+Anschließend wurde das Spiel im Gespräch weiterentwickelt: Jannik legte Wert auf realistische Abläufe ohne Fahrsimulation, und zusätzliche Wünsche wie Speichern, Eier, Milch, Wolle und neun Spielwochen wurden umgesetzt.
+
+Das Projekt zeigt, wie aus einer Kinderidee und einer Prompt-Anweisung ein direkt im Browser spielbares Spiel werden kann. Der Quellcode wurde KI-gestützt erstellt; er ist kein Nachweis für eine vollständige fachliche oder technische Prüfung.
+
 ## ❤️ Für Jannik
 
 Die Idee, der Name **EJOYW** und die Vorgabe „so wie in echt“ kommen von Jannik. Seine Wünsche bestimmen, wie der Bauernhof wächst.
